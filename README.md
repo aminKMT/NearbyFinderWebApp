@@ -1,6 +1,6 @@
 **NearbyFinder(THERE_webapp):
 
-![Demo Video](C:/Users/akeramati/OneDrive - Widener University/Desktop/GIS MAterial/ArcGISPro/TeachingMaterial/There/There/www/Short_Video_THERE.mp4)
+![Demo Video]("C:/Users/akeramati/OneDrive - Widener University/Desktop/GIS MAterial/ArcGISPro/TeachingMaterial/There/There/www/Short_Video_THERE.mp4")
 
 * What is THERE?
 Imagine you and a group of friends want to dine out and are looking for the nearest restaurant that serves a specific cuisine, like Indian. In this scenario, THERE can assist you in identifying potential dining spots and calculating the travel time for each of your friends, taking into account various factors such as mode of transportation (driving, public transportation), departure time, etc. In essence, THERE is a web application designed for optimizing location choices using Google API. It can be particularly useful in the logistics sector, enabling companies to pinpoint the nearest retailers or supermarkets relative to the diverse locations of their warehouses or manufacturing plants
