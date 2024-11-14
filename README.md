@@ -11,5 +11,6 @@ Imagine you and a group of friends want to dine out and are looking for the near
 3. Enter your addresses in the address bar and use the "Add" button to include them in your inputs.
 4. Click on "FindSpots" and wait for the results. You can also view the located spots on the map in the "Map" tab.
 
+** The complete R ad Shiny scripts to create the web app can be finde in Backup23_100%api-Free.R**
 [Click here to see the web app](https://kmtgis.shinyapps.io/There/)
 
